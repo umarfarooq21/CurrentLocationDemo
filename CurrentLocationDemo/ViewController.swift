@@ -11,6 +11,8 @@ import CoreLocation
 
 class ViewController: UIViewController {
 
+    //test commit for GitHub
+    
     let locationManager = CLLocationManager()
     
     @IBOutlet weak var lblLocation: UILabel!
